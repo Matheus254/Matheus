@@ -32,7 +32,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará projetos de Machine Learni
 ## **Contato**  
 - 📧 Email: [matheusdenovaeslago@gmail.com]  
 - 💼 LinkedIn: []  
-- 🌐 GitHub: [github.com/matheus254]  
+- 🌐 GitHub: [github.com/Matheus254]  
 
 ---
 

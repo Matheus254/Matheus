@@ -29,19 +29,19 @@ The dataset used is the **Wine Dataset**, which contains 13 features describing 
 
    - Python 3.8+
    
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-%matplotlib inline
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import confusion_matrix
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-from sklearn.impute import SimpleImputer
-from sklearn.preprocessing import StandardScaler, OrdinalEncoder
-from sklearn.svm import SVC
-from sklearn.ensemble import RandomForestClassifier
-import joblib
-from sklearn.metrics import roc_curve, roc_auc_score
-import seaborn as sns
+import pandas as pd  
+import numpy as np            
+import matplotlib.pyplot as plt            
+%matplotlib inline                   
+from sklearn.model_selection import train_test_split                   
+from sklearn.ensemble import RandomForestClassifier                    
+from sklearn.metrics import confusion_matrix          
+from sklearn.compose import ColumnTransformer          
+from sklearn.pipeline import Pipeline          
+from sklearn.impute import SimpleImputer          
+from sklearn.preprocessing import StandardScaler, OrdinalEncoder          
+from sklearn.svm import SVC          
+from sklearn.ensemble import RandomForestClassifier          
+import joblib          
+from sklearn.metrics import roc_curve, roc_auc_score          
+import seaborn as sns          
